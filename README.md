@@ -12,9 +12,7 @@ A highly motivated and detail-oriented Certified Nurse's Aide (CNA) with 4 years
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis and SIEM                              | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Analysis                                | <a href="https://google.com">Detection Lab</a>|
-| Creating Basic Incident Response              | <a href="https://google.com">Detection Lab</a>|     
+| Conduct Security Audit                              | <a href="https://github.com/NathalieJoy27/Conduct-Security-Audit">Conduct Security Audit</a>|
 
 
 ## Tools
@@ -31,5 +29,4 @@ A highly motivated and detail-oriented Certified Nurse's Aide (CNA) with 4 years
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/NathalieJoy27/Conduct-Security-Audit">Conduct Security Audit</a>
