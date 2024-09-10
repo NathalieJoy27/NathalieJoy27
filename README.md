@@ -12,7 +12,7 @@ A highly motivated and detail-oriented Certified Nurse's Aide (CNA) with 4 years
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct Security Audit                              | <a href="https://github.com/NathalieJoy27/Conduct-Security-Audit">Conduct Security Audit</a>|
+| Conduct Security Audit                        | <a href="https://github.com/NathalieJoy27/Controls-and-Compliance">Controls and Compliance</a>|
 
 
 ## Tools
@@ -29,4 +29,4 @@ A highly motivated and detail-oriented Certified Nurse's Aide (CNA) with 4 years
 
 
 ## Projects
-- <a href="https://github.com/NathalieJoy27/Conduct-Security-Audit">Conduct Security Audit</a>
+- <a href="https://github.com/NathalieJoy27/Controls-and-Compliance">Controls and Compliance</a>
