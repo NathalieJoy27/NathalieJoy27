@@ -32,3 +32,4 @@ A highly motivated and detail-oriented Certified Nurse's Aide (CNA) with 4 years
 - <a href="https://github.com/NathalieJoy27/Controls-and-Compliance">Controls and Compliance</a>
 - <a href="https://github.com/NathalieJoy27/Incident-report-analysis-and-respond">Incident report analysis and respond</a>
 - <a href="https://github.com/NathalieJoy27/File-permission-in-Linux">File Permissions in Linux</a>
+- <a href="https://github.com/NathalieJoy27/Vulnerability-assessment-report">Vulnerability assessment report</a>
